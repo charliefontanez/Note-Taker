@@ -1,11 +1,22 @@
-
-  [
-    {
-      "title":"Test Title",
-      "text":"Test text"
-    },
-    {
-      "title": "Note Title",
-      "text": "text"
-    }
-  ]
+[
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "id": 1
+  },
+  {
+    "title": "Note Title",
+    "text": "text",
+    "id": 2
+  },
+  {
+    "title": "New Note",
+    "text": "Testing new note id.",
+    "id": "3395f498-0eab-44b9-a261-ded94dc10e49"
+  },
+  {
+    "title": "New Note",
+    "text": "New Note",
+    "id": "e7857b20-82b2-4d05-99e0-3971674e2c24"
+  }
+]
